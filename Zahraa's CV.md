@@ -1,7 +1,8 @@
 ﻿# **Zahraa Mazloum**  
 
 
-###### ![location](location.png) Lebanon              
+###### ![location](location.png) Lebanon  
+###### ![phone](phone.png) +96181474846              
 ###### ![mail](mail.png)zahraamazloum2001@gmail.com
 
 ###### ![github](github.png)https://github.com/Zahraa-Mazloum
